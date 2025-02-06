@@ -5,4 +5,8 @@
 
 ## 下载地址 https://github.com/Silzboy/telegram_transformer/releases/download/telegram_transformer/telegram_transformer.7z
 
-![二维码](https://github.com/Silzboy/telegram_transformer/blob/main/images/1.png?raw=true)
+## 其他相关项目
+[TG群发采集营销专家](https://github.com/Silzboy/telegram_expert)
+
+## 界面图片
+![图片](https://github.com/Silzboy/telegram_transformer/blob/main/images/1.png?raw=true)
